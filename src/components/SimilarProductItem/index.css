@@ -1,0 +1,18 @@
+.each-product-title {
+  color: #000000;
+  font-size: 20px;
+  font-family: Roboto;
+}
+.each-product-rating-button {
+  background: #3b82f6;
+  color: #ffffff;
+  width: 50px;
+  height: 30px;
+  border-width: 0px;
+  border-radius: 10px;
+}
+.each-product-star{
+    width:10px;
+    height:10px;
+    margin-left:4px;
+}

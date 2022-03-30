@@ -1,0 +1,68 @@
+.product-item-details-container {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  align-items: center;
+}
+.product-item-heading {
+  color: #000000;
+  font-family: Roboto;
+  font-size: 30px;
+}
+.price {
+  color: #000000;
+  font-weight: 500;
+  font-size: 20px;
+  font-family: Roboto;
+}
+.rating-button {
+  background: #3b82f6;
+  color: #ffffff;
+  border-radius: 10px;
+  width: 50px;
+  display: flex;
+  flex-direction: row;
+  height: 34px;
+  padding-left: 6px;
+  padding-top: 4px;
+}
+.rating-star {
+  color: #ffffff;
+  width: 12px;
+  height: 12px;
+  margin-left: 6px;
+  align-self: center;
+  margin-bottom: 4px;
+}
+.total-reviews {
+  color: #171f46;
+  font-size: 14px;
+  font-family: Roboto;
+  margin-left: 8px;
+}
+.product-description {
+  color: #475569;
+  font-family: Roboto;
+  font-size: 16px;
+}
+.availability {
+  color: #000000;
+  font-size: 16px;
+  font-weight: bold;
+  margin-left: 6px;
+}
+.seperator {
+  color: #475569;
+}
+.cart-icon {
+  margin-right: 16px;
+  width: 15px;
+  height: 15px;
+  align-self: center;
+}
+.total-items {
+  color: #000000;
+  font-size: 18px;
+  margin-right: 16px;
+  margin-top: 8px;
+}
